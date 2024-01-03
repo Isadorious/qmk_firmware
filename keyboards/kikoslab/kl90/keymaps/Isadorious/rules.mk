@@ -1,0 +1,4 @@
+WPM_ENABLE = yes
+OLED_ENABLE = yes
+RAW_ENABLE = yes
+CONSOLE_ENABLE = no
